@@ -1,0 +1,264 @@
+{
+    "infoBoxesData": [
+      {
+        "icon": "images/icons/1.jpeg",
+        "title": "10 Years of Experience:",
+        "description": "A decade of expertise in running successful Facebook Ads campaigns."
+      },
+      {
+        "icon": "images/icons/2.jpeg",
+        "title": "500+ Satisfied Clients:",
+        "description": "Proven track record with a diverse range of businesses."
+      },
+      {
+        "icon": "images/icons/3.jpeg",
+        "title": "Meta Ads Partner:",
+        "description": "Recognized as a trusted partner by Meta for our excellence in Facebook Ads management"
+      },
+      {
+        "icon": "images/icons/4.jpeg",
+        "title": "Meta Certified Team:",
+        "description": "Our experts are certified by Meta, ensuring your campaigns are in capable hands"
+      },
+      {
+        "icon": "images/icons/5.jpeg",
+        "title": "Cost-Effective Campaigns:",
+        "description": "Maximize your ROI with campaigns designed to meet your budget and goals."
+      }
+    ],
+    "data": [
+      {
+        "title": "Drive Organic Traffic",
+        "img": "SEO Related Icon/web-traffic.png",
+        "description": "Increase the number of visitors to your website through search engine results."
+      },
+      {
+        "title": "Attract Qualified Leads",
+        "img": "SEO Related Icon/Attract Qualified Leads.png",
+        "description": "Bring in visitors who are actively searching for products or services you offer."
+      },
+      {
+        "title": "Outshine Competitors",
+        "img": "SEO Related Icon/Outshine Competitors.png",
+        "description": "Gain an edge over competitors by ranking higher in search results."
+      },
+      {
+        "title": "Build a Lasting Online Presence",
+        "img": "SEO Related Icon/Online Presence.png",
+        "description": " Create a sustainable and impactful digital footprint."
+      },
+      {
+        "title": "Improve User Experience",
+        "img": "SEO Related Icon/Improve User Experience .png",
+        "description": "Optimize website usability to keep visitors engaged and satisfied."
+      },
+      {
+        "title": "Increase Conversion Rates",
+        "img": "SEO Related Icon/Increase Conversion Rates.png",
+        "description": "Convert more visitors into customers through effective SEO strategies."
+      },
+      {
+        "title": "Enhance Visibility",
+        "img": "SEO Related Icon/Enhance Visibility.png",
+        "description": " Improve your online presence and make it easier for potential customers to find you."
+      },
+      {
+        "title": "Boost Credibility",
+        "img": "SEO Related Icon/Boost Credibility.png",
+        "description": "Establish your business as a trusted authority in your industry."
+      },
+      {
+        "title": "Ensure Long-Term Success",
+        "img": "SEO Related Icon/Long-Term Success.png",
+        "description": " Invest in SEO to achieve enduring growth and business success."
+      },
+      {
+        "title": "Community Building",
+        "img": "community-center.png",
+        "description": "Foster connections and engage with your audience to create a loyal and interactive brand community."
+      }
+    ],
+    "OurServicesdata": [
+      {
+        "title": "Keyword Research",
+        "img": "target-audience.png",
+        "description": "Identifying the most relevant and high-performing keywords for your business."
+      },
+      {
+        "title": "On-Page Optimization ",
+        "img": "social-engagement.png",
+        "description": "Enhancing website elements like titles, meta descriptions, headers, and content for better search engine rankings."
+      },
+      {
+        "title": "Technical SEO",
+        "img": "advertising.png",
+        "description": " Improving website backend aspects, such as site speed, mobile-friendliness, and crawlability."
+      },
+      {
+        "title": "Link Building",
+        "img": "retargeting-1.png",
+        "description": "Acquiring high-quality backlinks to increase your website’s authority and rankings."
+      },
+      {
+        "title": "Local SEO",
+        "img": "tracking.png",
+        "description": "Optimizing your site for local searches to attract customers in your geographic area."
+      },
+      {
+        "title": "SEO Audits ",
+        "img": "easy-installation.png",
+        "description": "Conducting thorough evaluations of your website to identify and fix SEO issues."
+      },
+      {
+        "title": "Tracking and Reporting",
+        "img": "ab-testing-1.png",
+        "description": "Monitoring SEO performance and providing detailed reports on progress and results."
+      },
+      {
+        "title": "Competitor Analysis",
+        "img": "optimization.png",
+        "description": " Analyzing competitors to identify opportunities and threats in your niche."
+      }
+    ],
+    "caseStudies": [
+      {
+        "caseTitle": "Jahangir Group - Increasing Brand Visibility through Facebook Ads",
+        "greenPara": "Objective: Elevate brand recognition and drive traffic to physical stores.",
+        "strategy": "We implemented a multi-faceted Facebook advertising strategy focusing on Brand Awareness and Local Reach campaigns...",
+        "image": "images/resource/Jahangir group.png"
+      },
+      {
+        "caseTitle": "Mega.pk - Boosting Online Sales with Facebook Ads",
+        "greenPara": "Objective: Enhance online sales and increase brand presence in the competitive ecommerce market.",
+        "strategy": "We specialize in creating targeted campaigns designed to drive website purchases through Conversion...",
+        "image": "images/resource/Megapk.png"
+      }
+    ],
+    "concepts": [
+      {
+        "title": "Initial Consultation",
+        "subtitle": "Initial Consultation",
+        "img": "Consultation.png",
+        "icon": "1",
+        "text": "We start by understanding your business goals, target audience, and project requirements through a detailed discussion."
+      },
+      {
+        "title": "Research & Planning",
+        "img": "Strategy Development.png",
+        "icon": "2",
+        "text": "We conduct market research and competitor analysis to create a strategic plan. We then draft a sitemap."
+      },
+      {
+        "title": "Design",
+        "img": "Campaign Setup.png",
+        "icon": "3",
+        "text": "Our design team creates mockups and prototypes that align with your brand identity, ensuring a visually appealing layout."
+      },
+      {
+        "title": "Development",
+        "img": "Launch & Monitor.png",
+        "icon": "4",
+        "text": "We bring the design to life by coding the website using WordPress, Shopify, Wix, HTML, and React, ensuring it’s fully responsive."
+      },
+      {
+        "title": "Content Integration",
+        "img": "Optimize.png",
+        "icon": "5",
+        "text": "We integrate your content, including text, images, and multimedia, ensuring it’s SEO-friendly and aligns with your brand voice."
+      },
+      {
+        "title": "Testing & Quality Assurance",
+        "img": "Reporting.png",
+        "icon": "6",
+        "text": " We rigorously test the website for functionality, compatibility, and performance across all devices and browsers."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "1. What is SEO and why is it important?",
+        "answer": "Answer: SEO (Search Engine Optimization) is the process of optimizing your website to rank higher in search engine results pages (SERPs) like Google. It helps increase the visibility of your site, driving more traffic and potential customers to your business. Without SEO, your site may not reach its full audience."
+      },
+      {
+        "question": "2. How long does it take to see results from SEO?",
+        "answer": "Answer: SEO is a long-term strategy. While you may begin to see improvements within 3 to 6 months, significant results can take 6-12 months depending on the competitiveness of your industry and the SEO tactics implemented."
+      },
+      {
+        "question": "3. What’s the difference between organic and paid results?",
+        "answer": " Answer: Organic results are the listings that appear due to their relevance to the search term, without paying for placement. Paid results (often in the form of ads) appear at the top or bottom of SERPs, and businesses pay for every click or impression."
+      },
+      {
+        "question": "4 What are keywords and why are they important?",
+        "answer": "Answer: Keywords are the search terms people type into search engines. By targeting the right keywords, we ensure your website appears when users search for products or services you offer. Choosing the right keywords can drive more qualified traffic to your website."
+      },
+      {
+        "question": "5.  Do I need to change my website to rank better in search engines?",
+        "answer": "In some cases, yes. We may recommend structural changes, content optimization, and improving your website's load speed to meet SEO best practices. These improvements can enhance your chances of ranking higher."
+      },
+      {
+        "question": "6. What is on-page SEO?",
+        "answer": "Answer: On-page SEO refers to optimizing individual web pages to rank higher and earn more relevant traffic. This involves updating content, optimizing HTML elements (like title tags and meta descriptions), and ensuring your site is mobile-friendly."
+      },
+      {
+        "question": "7. What is off-page SEO?",
+        "answer": "Answer: Off-page SEO focuses on actions taken outside your website to improve your rankings. This includes strategies like link building, social media marketing, and influencer outreach. Building backlinks from authoritative websites is a key part of off-page SEO."
+      },
+      {
+        "question": "8. What is Local SEO?",
+        "answer": "Answer: Local SEO is focused on optimizing your online presence to attract business from local searches on Google. This is crucial for businesses that operate on a local level, such as restaurants or service-based businesses. Optimizing your Google My Business profile is a part of local SEO."
+      },
+      {
+        "question": "9.How do backlinks affect my site’s ranking?",
+        "answer": "Answer: Backlinks are links from other websites that point to your site. Search engines view these as a vote of confidence in your content. High-quality backlinks from reputable sites can significantly improve your website's authority and ranking in search results."
+      },
+      {
+        "question": "10. Do you provide monthly reports?",
+        "answer": "Answer: Yes, we provide detailed monthly reports that highlight key performance indicators, keyword rankings, organic traffic improvements, and future strategy plans. This ensures complete transparency of our SEO efforts."
+      }
+    ] , 
+    "timelineData" :[
+      {
+        "date": "Phase 1",
+        "title": "Client Discovery & Goal Setting",
+        "descr": "We start with a consultation to understand your business goals, target audience, and challenges. Then, we set clear, measurable SEO objectives to boost organic traffic, improve rankings, and generate leads.",
+        "color": "#41516C"
+      },
+      {
+        "date": "Phase 2",
+        "title": "Website Audit",
+        "descr": "We conduct a Technical SEO Audit to assess page speed, mobile-friendliness, and site crawlability. Our On-Page SEO Audit optimizes titles, meta descriptions, and keyword usage, while the Content Audit ensures content quality and relevance. Finally, we perform a Backlink Audit to evaluate link quality and remove toxic links.",
+        "color": "#FBCA3E"
+      },
+      {
+        "date": "Phase 3",
+        "title": "Keyword Research",
+        "descr": "We identify relevant keywords aligned with your products/services, analyze competitor keywords to spot opportunities, and target niche long-tail keywords with lower competition but higher intent.",
+        "color": "#E24A68"
+      },
+      {
+        "date": "Phase 4",
+        "title": "Competitive Analysis",
+        "descr": "We assess competitors' SEO strategies, content, backlinks, and rankings to identify your strengths and weaknesses, helping you gain a competitive edge.",
+        "color": "#1B5F8C"
+      },
+      {
+        "date": "Phase 5",
+        "title": "Off-Page SEO & Link Building strategy",
+        "descr": "We develop a backlink plan to secure high-quality links from reputable sites, reach out to influencers and media to promote your content, and optimize for local searches by listing your business on Google My Business and local directories.",
+        "color": "#4CADAD"
+      },
+      {
+        "date": "Phase 6",
+        "title": "Monitoring & Reporting",
+        "descr": "We set up essential SEO tools like Google Analytics and Search Console to track traffic, rankings, and KPIs. We regularly monitor these metrics to assess SEO performance and provide detailed monthly reports, including keyword rankings, traffic changes, and actionable recommendations.",
+        "color": "#1B5F8C"
+      },
+      {
+        "date": "Phase 7",
+        "title": "Continuous Optimization",
+        "descr": "Continuous Optimization involves ongoing SEO refinement to adapt to performance metrics, algorithm changes, and business goals, along with continuous content expansion to target new keywords and stay competitive.",
+        "color": "#1B5F8C"
+      }
+    ]
+    
+  }
+  

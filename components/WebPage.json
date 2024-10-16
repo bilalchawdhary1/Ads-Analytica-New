@@ -1,0 +1,236 @@
+{
+  "infoBoxesData": [
+    {
+      "icon": "images/icons/1.jpeg",
+      "title": "10 Years of Experience:",
+      "description": "A decade of expertise in running successful Google Ads campaigns."
+    },
+    {
+      "icon": "images/icons/2.jpeg",
+      "title": "500+ Satisfied Clients:",
+      "description": "Proven track record with a diverse range of businesses."
+    },
+    {
+      "icon": "images/icons/6.jpeg",
+      "title": "Ongoing Support:",
+      "description": " We provide continuous maintenance and support to keep your site running smoothly."
+    },
+    {
+      "icon": "images/icons/7.jpeg",
+      "title": "Expert Team:",
+      "description": " Our skilled developers and designers are experienced in WordPress, Shopify, Wix, HTML, and React."
+    },
+    {
+      "icon": "images/icons/5.jpeg",
+      "title": "Cost-Effective Campaigns:",
+      "description": "Maximize your ROI with campaigns designed to meet your budget and goals."
+    }
+  ],
+  "data": [
+    {
+      "title": "24/7 Accessibility",
+      "img": "24-7.png",
+      "description": "Your business is always open online."
+    },
+    {
+      "title": "Cost Effective",
+      "img": "interest-rate.png",
+      "description": "Lower costs with better ROI"
+    },
+    {
+      "title": "Global Reach",
+      "img": "Global Reach.png",
+      "description": "Expand your audience beyond local markets."
+    },
+    {
+      "title": "Credibility Boost",
+      "img": "Credibility Boost.png",
+      "description": "Enhances professionalism and trust.Enhances professionalism and trust."
+    },
+    {
+      "title": "Brand Identity",
+      "img": "branding.png",
+      "description": "Strengthen your brand with consistent messaging."
+    },
+    {
+      "title": "Lead Generation",
+      "img": "user-engagement.png",
+      "description": "Capture and nurture potential customers."
+    },
+    {
+      "title": "Customer Support",
+      "img": "support.png",
+      "description": "Provide easy access to support and information."
+    },
+    {
+      "title": "Sales Growth",
+      "img": "Sales Growth.png",
+      "description": "Sell products and services online."
+    },
+    {
+      "title": "Customer Insights",
+      "img": "Customer Insights.png",
+      "description": "Gather valuable data for strategy optimization."
+    },
+    {
+      "title": "Competitive Edge",
+      "img": "Competitive Edge.png",
+      "description": "Stay ahead of competitors."
+    }
+  ],
+  "OurServicesdata": [
+    {
+      "title": "Shopify Development",
+      "img": "shopify.png",
+      "description": "Build and scale your online store with our expert Shopify development services."
+    },
+    {
+      "title": "WordPress Development",
+      "img": "WordPress.png",
+      "description": "Build and scale your website with our expert WordPress development services."
+    },
+    {
+      "title": "HTML Development",
+      "img": "html.png",
+      "description": "Build your website with our expert HTML, CSS, and JavaScript development services"
+    },
+    {
+      "title": "MERN Stack",
+      "img": "MERN.png",
+      "description": "Build and scale your web applications with our expert MERN stack development services."
+    },
+    {
+      "title": "WIX Development",
+      "img": "wix.png",
+      "description": "Build and scale your website with our expert Wix development services."
+    }
+  ],
+  "caseStudies": [
+    {
+      "caseTitle": "Jahangir Group - Increasing Brand Visibility through Google Ads",
+      "greenPara": "Objective: Elevate brand recognition and drive traffic to physical stores.",
+      "strategy": "We implemented a multi-faceted Google advertising strategy focusing on Brand Awareness and Local Reach campaigns...",
+      "image": "images/resource/Jahangir group.png"
+    },
+    {
+      "caseTitle": "Mega.pk - Boosting Online Sales with Google Ads",
+      "greenPara": "Boost online sales and strengthen brand presence in the competitive eCommerce market.",
+      "strategy": "We specialize in creating targeted campaigns designed to drive website purchases through Conversion...",
+      "image": "images/resource/Megapk.png"
+    }
+  ],
+  "concepts": [
+    {
+      "title": "Initial Consultation",
+      "img": "Consultation.png",
+      "icon": "1",
+      "text": "We start by understanding your business goals, target audience, and project requirements through a detailed discussion."
+    },
+    {
+      "title": "Research & Planning",
+      "img": "Strategy Development.png",
+      "icon": "2",
+      "text": "We conduct market research and competitor analysis to create a strategic plan. We then draft a sitemap."
+    },
+    {
+      "title": "Design",
+      "img": "Campaign Setup.png",
+      "icon": "3",
+      "text": "Our design team creates mockups and prototypes that align with your brand identity, ensuring a visually appealing layout."
+    },
+    {
+      "title": "Development",
+      "img": "Launch & Monitor.png",
+      "icon": "4",
+      "text": "We bring the design to life by coding the website using WordPress, Shopify, Wix, HTML, and React, ensuring it’s fully responsive."
+    },
+    {
+      "title": "Content Integration",
+      "img": "Optimize.png",
+      "icon": "5",
+      "text": "We integrate your content, including text, images, and multimedia, ensuring it’s SEO-friendly and aligns with your brand voice."
+    },
+    {
+      "title": "Testing & Quality Assurance",
+      "img": "Reporting.png",
+      "icon": "6",
+      "text": " We rigorously test the website for functionality, compatibility, and performance across all devices and browsers."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "1. What is the difference between web design and web development?",
+      "answer": "Answer: Web design focuses on the aesthetics and user experience of a website, including layout, color schemes, and graphics. Web development, on the other hand, involves the coding and programming needed to bring the design to life and ensure the website functions smoothly. While design is about how the website looks, development is about how the website works."
+    },
+    {
+      "question": "2. How long does it take to build a website?",
+      "answer": "Answer: The timeline for building a website depends on the complexity of the project. A simple website might take 4-6 weeks, while more complex sites with custom features, e-commerce, or extensive content might take several months. We work with you to set a realistic timeline based on your needs."
+    },
+    {
+      "question": "3. Will my website be mobile-friendly?",
+      "answer": "Answer: Yes, all websites we develop are responsive, meaning they will automatically adjust to look and function well on all devices, including smartphones and tablets. Mobile-friendliness is a standard part of our development process."
+    },
+    {
+      "question": "4. Can you help with SEO for my website?",
+      "answer": "Answer: Absolutely. We offer SEO (Search Engine Optimization) services to help your website rank higher on search engines like Google. This includes optimizing your website’s content, structure, and performance to improve visibility and attract more visitors."
+    },
+    {
+      "question": "5. Do you provide ongoing support and maintenance after the website is launched?",
+      "answer": "Answer: Yes, we offer various support and maintenance packages to ensure your website remains updated, secure, and fully functional after launch. This can include software updates, security checks, backups, and content updates."
+    },
+    {
+      "question": "6. Can you integrate third-party services and tools into my website?",
+      "answer": "Answer: Yes, we can integrate a wide range of third-party services and tools, such as payment gateways, CRM systems, email marketing platforms, analytics tools, and more, depending on your business needs."
+    },
+    {
+      "question": "7. How much does a website cost?",
+      "answer": "Answer: The cost of a website depends on several factors, including the complexity of the design, the number of pages, the functionality required, and whether custom features are needed. We provide custom quotes based on your specific requirements, so you only pay for what you need."
+    },
+    {
+      "question": "8. Will I be able to update the website myself after it's built?",
+      "answer": "Answer: Yes, we typically build websites using user-friendly content management systems (CMS) like WordPress, which allow you to easily update and manage your website content without needing technical knowledge. We also provide training on how to use your CMS effectively."
+    },
+    {
+      "question": "9. What if I already have a website but need help updating or redesigning it?",
+      "answer": "Answer: We can help with that too! Whether you need minor updates, a complete redesign, or migration to a new platform, we offer services to refresh and improve your existing website to meet your current needs."
+    },
+    {
+      "question": "10. How do you ensure my website is secure?",
+      "answer": "Answer: Security is a top priority for us. We implement various security measures, including SSL certificates, regular updates, secure hosting environments, and code practices to protect your website from threats. We also offer ongoing monitoring and security support to keep your site safe."
+    }
+  ],
+  "DetailsImg": [
+    {
+      "img": "Jt-Barnes.jpg",
+      "link": "https://jtbarneselectricians.co.uk/"
+    },
+    {
+      "img": "alikaynaturals.jpg",
+      "link": "https://alikaynaturals.com/"
+    },
+    {
+      "img": "house-design.jpg",
+      "link": "https://housedesigner.com/"
+    },
+    {
+      "img": "the-beauty-brand.jpg",
+      "link": "https://thebeautybrand.co.za/"
+    },
+    {
+      "img": "jahangir-Group.jpg",
+      "link": "https://jahangirgroup.pk/"
+    },
+    {
+      "img": "Cursortek.jpg",
+      "link": "https://cursortek.com/"
+    },
+    {
+      "img": "darkhorse.jpg",
+      "link": "https://www.darkhorse-cretraining.com/"
+    },
+    {
+      "img": "anwarestate.jpg",
+      "link": "https://anwarestate.com/"
+    }
+  ]
+}
