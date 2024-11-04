@@ -9,8 +9,8 @@ SwiperCore.use([Autoplay, Navigation]);
 export default function ClientSliderOne() {
     return (
         <Swiper
-            spaceBetween={50}
-            slidesPerView={3}     
+            spaceBetween={70}
+            slidesPerView={5}     
             loop={true}
             onSlideChange={() => console.log('slide change')}
             onSwiper={(swiper) => console.log(swiper)}
