@@ -10,7 +10,7 @@ export default function ClientSliderOne() {
     return (
         <Swiper
             spaceBetween={70}
-            slidesPerView={5}     
+            slidesPerView={3}     
             loop={true}
             onSlideChange={() => console.log('slide change')}
             onSwiper={(swiper) => console.log(swiper)}
@@ -38,10 +38,10 @@ export default function ClientSliderOne() {
               }}
         >
             <SwiperSlide className="slide-item"> <a href="/"><img src="images/partner/google.png" alt /></a> </SwiperSlide>
-            <SwiperSlide className="slide-item"> <a href="/"><img src="images/partner/linkedin.png" alt /></a> </SwiperSlide>
+            {/* <SwiperSlide className="slide-item"> <a href="/"><img src="images/partner/linkedin.png" alt /></a> </SwiperSlide> */}
             <SwiperSlide className="slide-item"> <a href="/"><img src="images/partner/Meta.svg" alt /></a> </SwiperSlide>
             <SwiperSlide className="slide-item"> <a href="/"><img src="images/partner/microsoft.svg" alt /></a> </SwiperSlide>
-            <SwiperSlide className="slide-item"> <a href="/"><img src="images/partner/amazon.png" alt /></a> </SwiperSlide>
+            {/* <SwiperSlide className="slide-item"> <a href="/"><img src="images/partner/amazon.png" alt /></a> </SwiperSlide> */}
         </Swiper>
     )
 }
