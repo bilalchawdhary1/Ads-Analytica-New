@@ -21,7 +21,7 @@ export default function SuccessStories({ subtitle, caseStudies }) {
           {caseStudies.map((caseStudy, index) => (
             <div key={index}>
               <h3 className="sub-title">
-                Case Study: <span>{caseStudy.caseTitle}</span>
+              Client Background : <span>{caseStudy.caseTitle}</span>
               </h3>
               <h4 className="gd-green">{caseStudy.greenPara}</h4>
               <p data-aos="fade-left">

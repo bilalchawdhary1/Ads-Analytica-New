@@ -40,10 +40,10 @@ export default function WebServices() {
           }
           subtitle={
             <>
-            Investing in web development is a game-changer! 🚀 A professionally designed website boosts your brand's credibility, drives traffic, and turns visitors into loyal customers. 📈 With mobile responsiveness, speed, and a great user experience, your business stands out. Plus, advanced features like e-commerce, SEO, and analytics help you track performance and increase revenue. 🌟📊 
+            Investing in web development is a game-changer! A professionally designed website boosts your brand's credibility, drives traffic, and turns visitors into loyal customers. With mobile responsiveness, speed, and a great user experience, your business stands out. Plus, advanced features like e-commerce, SEO, and analytics help you track performance and increase revenue.
             </>
           }
-          greenpara="Here are the key benefits of web development for business owners: 💼🌐"
+          greenpara="Here are the key benefits of web development for business owners"
           data={data}
         />
         <OurServices

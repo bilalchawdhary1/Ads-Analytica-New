@@ -73,7 +73,7 @@
   --line-height-heading-h1: 1em;
   --line-height-heading: 1.2em;
   --line-height-heading-small: 1.4em;
-  --h1-font-size: 90px;
+  --h1-font-size: 67px;
   --h2-font-size: 50px;
   --h3-font-size: 36px;
   --h4-font-size: 24px;
@@ -166,6 +166,7 @@ body {
 p,
 .text {
   color: #0b0b0b;
+  /* color: #7f7f7f; */
   font-size: var(--body-font-size);
   font-family: var(--text-font);
   font-weight: var(--body-font-weight);
@@ -4464,7 +4465,7 @@ Section Title
 }
 .about-section-two .content-column .info-box .inner .text {
   font-size: 16px;
-  color: #ada8ba;
+  color: #7f7f7f;
   line-height: 34px;
 }
 

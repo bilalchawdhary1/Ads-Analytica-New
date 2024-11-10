@@ -5,7 +5,7 @@ import ServicesHeader from "./ServicesComponents/ServicesHeader";
 import WhatBenefits from "./ServicesComponents/WhatBenefits";
 import OurServices from "./ServicesComponents/OurServices";
 import SuccessStories from "./ServicesComponents/SuccessStories";
-import TimelineSection from "./ServicesComponents/NewCard";
+// import TimelineSection from "./ServicesComponents/NewCard";
 import OurWorking from "./ServicesComponents/OurWorking";
 import FAQSection from "./ServicesComponents/FAQSection";
 import {
@@ -35,7 +35,7 @@ export default function SeoServices() {
               <br />
             </>
           }
-          description="Harness the power of our proven SEO method designed to achieve top Google rankings in just 90 days! 🚀 Our expert strategy combines cutting-edge techniques with industry best practices to deliver rapid results and ensure your website stands out in search engine results. From meticulous keyword research and on-page optimization to authoritative link building and technical enhancements, we cover all aspects to boost your visibility and drive substantial traffic. Experience unparalleled growth and dominate search rankings with our tailored SEO approach. 🌟"
+          description="Harness the power of our proven SEO method designed to achieve top Google rankings in just 90 days! Our expert strategy combines cutting-edge techniques with industry best practices to deliver rapid results and ensure your website stands out in search engine results. From meticulous keyword research and on-page optimization to authoritative link building and technical enhancements, we cover all aspects to boost your visibility and drive substantial traffic. Experience unparalleled growth and dominate search rankings with our tailored SEO approach. "
           button="Get Started with Ads Analytica"
         />
         <WhatBenefits
@@ -47,18 +47,18 @@ export default function SeoServices() {
           subtitle={
             <>
               SEO is a powerful tool that can transform your business by driving
-              organic traffic 🚀, increasing visibility 👁️, and boosting
+              organic traffic , increasing visibility , and boosting
               credibility. By optimizing your website for search engines, you
-              can attract more qualified leads 🎯, outshine competitors 💪, and
-              build a lasting online presence 🌐. Effective SEO not only
-              improves your rankings 📈 but also enhances user experience,
+              can attract more qualified leads, outshine competitors, and
+              build a lasting online presence. Effective SEO not only
+              improves your rankings but also enhances user experience,
               leading to higher conversion rates and business growth. In today’s
               digital landscape, investing in SEO is essential for long-term
               success.
             </>
           }
           data={data}
-          greenpara="Here are the key benefits of SEO for your business: 🌟"
+          greenpara="Here are the key benefits of SEO for your business: "
         />
         <OurServices
           title={
@@ -67,7 +67,7 @@ export default function SeoServices() {
               SEO Services!
             </>
           }
-          subtitle="Ready to elevate your business to new heights? 🚀 Our expert SEO services are designed to unlock your website's full potential and drive significant growth. 📈 From in-depth keyword research 🔍 and on-page optimization ⚙️ to high-quality backlink building 🔗 and performance tracking 📊, we cover all aspects of SEO to enhance your online presence. 🌐 Our tailored strategies ensure that your business not only ranks higher on search engines but also attracts more qualified leads 🎯 and converts them into loyal customers 💼. Experience the power of expert SEO and watch your business thrive! 🌟"
+          subtitle="Ready to elevate your business to new heights? Our expert SEO services are designed to unlock your website's full potential and drive significant growth. From in-depth keyword research and on-page optimization to high-quality backlink building and performance tracking , we cover all aspects of SEO to enhance your online presence. Our tailored strategies ensure that your business not only ranks higher on search engines but also attracts more qualified leads and converts them into loyal customers. Experience the power of expert SEO and watch your business thrive! "
           data={OurServicesdata}
         />
         <SuccessStories
