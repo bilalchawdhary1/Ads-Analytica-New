@@ -24,9 +24,9 @@ export default function SuccessStories({ subtitle, caseStudies }) {
               Client Background : <span>{caseStudy.caseTitle}</span>
               </h3>
               <h4 className="gd-green">{caseStudy.greenPara}</h4>
-              <p data-aos="fade-left">
-                <strong>Strategy : </strong> {caseStudy.strategy}
-              </p>
+              {/* <p data-aos="fade-left"> */}
+                {/* <strong>Strategy : </strong> {caseStudy.strategy} */}
+              {/* </p> */}
               <img src={caseStudy.image} alt={caseStudy.caseTitle} />
             </div>
           ))}

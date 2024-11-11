@@ -10,56 +10,6 @@ exports.id = "vendor-chunks/swiper";
 exports.ids = ["vendor-chunks/swiper"];
 exports.modules = {
 
-/***/ "./node_modules/swiper/modules/navigation/navigation.min.css":
-/*!*******************************************************************!*\
-  !*** ./node_modules/swiper/modules/navigation/navigation.min.css ***!
-  \*******************************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "./node_modules/swiper/modules/pagination/pagination.min.css":
-/*!*******************************************************************!*\
-  !*** ./node_modules/swiper/modules/pagination/pagination.min.css ***!
-  \*******************************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "./node_modules/swiper/modules/scrollbar/scrollbar.min.css":
-/*!*****************************************************************!*\
-  !*** ./node_modules/swiper/modules/scrollbar/scrollbar.min.css ***!
-  \*****************************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "./node_modules/swiper/swiper-bundle.css":
-/*!***********************************************!*\
-  !*** ./node_modules/swiper/swiper-bundle.css ***!
-  \***********************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "./node_modules/swiper/swiper-bundle.min.css":
-/*!***************************************************!*\
-  !*** ./node_modules/swiper/swiper-bundle.min.css ***!
-  \***************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
 /***/ "./node_modules/swiper/swiper.min.css":
 /*!********************************************!*\
   !*** ./node_modules/swiper/swiper.min.css ***!

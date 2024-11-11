@@ -5,7 +5,6 @@ import ServicesHeader from "./ServicesComponents/ServicesHeader";
 import WhatBenefits from "./ServicesComponents/WhatBenefits";
 import OurServices from "./ServicesComponents/OurServices";
 import SuccessStories from "./ServicesComponents/SuccessStories";
-// import TimelineSection from "./ServicesComponents/NewCard";
 import OurWorking from "./ServicesComponents/OurWorking";
 import FAQSection from "./ServicesComponents/FAQSection";
 import {
@@ -70,14 +69,14 @@ export default function SeoServices() {
           subtitle="Ready to elevate your business to new heights? Our expert SEO services are designed to unlock your website's full potential and drive significant growth. From in-depth keyword research and on-page optimization to high-quality backlink building and performance tracking , we cover all aspects of SEO to enhance your online presence. Our tailored strategies ensure that your business not only ranks higher on search engines but also attracts more qualified leads and converts them into loyal customers. Experience the power of expert SEO and watch your business thrive! "
           data={OurServicesdata}
         />
-        <SuccessStories
+        {/* <SuccessStories
           subtitle={
             <>
             See how our innovative strategies and expert execution have achieved remarkable results. Discover how we overcome challenges and turn goals into tangible business success.
             </>
           }
           caseStudies={caseStudies}
-        />
+        /> */}
         <Testimonials />
         <TimelineCards
           title="Our SEO Roadmap"

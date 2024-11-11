@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"index.js -> @/components/sections/Home1/Home1_Section6_testimonial1\":{\"id\":\"index.js -> @/components/sections/Home1/Home1_Section6_testimonial1\",\"files\":[\"static/chunks/components_sections_Home1_Home1_Section6_testimonial1_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST="{}"

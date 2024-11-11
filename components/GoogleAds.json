@@ -122,17 +122,12 @@
     ],
     "caseStudies": [
       {
-        "caseTitle": "Jahangir Group - Increasing Brand Visibility through Google Ads",
-        "greenPara": "Objective: Elevate brand recognition and drive traffic to physical stores.",
+        "caseTitle": "Premium transportation service offering",
+        "greenPara": "Objective: Increase website traffic and drive leads for through cost-effective Google Ads campaigns.",
         "strategy": "We implemented a multi-faceted Google advertising strategy focusing on Brand Awareness and Local Reach campaigns...",
-        "image": "images/resource/Jahangir group.png"
-      },
-      {
-        "caseTitle": "Mega.pk - Boosting Online Sales with Google Ads",
-        "greenPara": "Boost online sales and strengthen brand presence in the competitive eCommerce market.",
-        "strategy": "We specialize in creating targeted campaigns designed to drive website purchases through Conversion...",
-        "image": "images/resource/Megapk.png"
+        "image": "images/resource/adsgoogles.jpg"
       }
+    
     ],
     "concepts": [
     {
@@ -209,4 +204,5 @@
       }
     ]  
   }
+  
   

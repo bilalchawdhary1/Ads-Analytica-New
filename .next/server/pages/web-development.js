@@ -391,7 +391,7 @@ module.exports = JSON.parse('{"infoBoxesData":[{"icon":"images/icons/1.jpeg","ti
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/swiper","vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/react-modal-video","vendor-chunks/aos"], () => (__webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js?kind=PAGES&page=%2Fweb-development&preferredRegion=&absolutePagePath=.%2Fpages%5Cweb-development.js&absoluteAppPath=private-next-pages%2F_app&absoluteDocumentPath=private-next-pages%2F_document&middlewareConfigBase64=e30%3D!")));
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/swiper","vendor-chunks/react-modal-video","vendor-chunks/aos"], () => (__webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js?kind=PAGES&page=%2Fweb-development&preferredRegion=&absolutePagePath=.%2Fpages%5Cweb-development.js&absoluteAppPath=private-next-pages%2F_app&absoluteDocumentPath=private-next-pages%2F_document&middlewareConfigBase64=e30%3D!")));
 module.exports = __webpack_exports__;
 
 })();

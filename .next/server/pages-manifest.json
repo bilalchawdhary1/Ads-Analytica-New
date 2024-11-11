@@ -2,8 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
+  "/web-development": "pages/web-development.js",
   "/page-service-google": "pages/page-service-google.js",
-  "/facebook-services": "pages/facebook-services.js",
-  "/page-contact": "pages/page-contact.js"
+  "/seo-services": "pages/seo-services.js"
 }
